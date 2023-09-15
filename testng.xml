@@ -14,7 +14,7 @@
 <!--    <test name="Firefox" thread-count="2" parallel="methods">
         <parameter name="browser"  value="FIREFOX"/>
         <classes>
-            <class name="org.selenium.pom.tests.MyFirstTestCase" />
+            <class name="MyFirstTestCase" />
         </classes>
     </test>-->
 </suite>
